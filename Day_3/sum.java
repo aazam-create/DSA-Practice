@@ -15,5 +15,6 @@ public class sum {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         sum(n, 0);
+        // this is very important
     }
 }
